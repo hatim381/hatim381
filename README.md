@@ -143,19 +143,6 @@ Je travaille sur toute la chaîne de la donnée — collecte, transformation, mo
 
 ---
 
-## 📈 Statistiques GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hatim381&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=003189&text_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatim381&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hatim381&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=003189&currStreakLabel=0ea5e9)
-
-</div>
-
----
 
 ## 🌐 Me retrouver
 
