@@ -1,113 +1,225 @@
 <div align="center">
 
-# Hatim Adnane
+<img alt="Hatim Adnane" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,100:8338ec&height=180&section=header&text=HATIM%20ADNANE&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Data%20Engineer%20%7C%20Creative%20Technologist%20%7C%20Builder%20&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
-**Data Engineer** • **Creative Technologist** • **Building things between data and web**
+</div>
 
-[Portfolio](https://hatimadnane.fr) • [LinkedIn](https://linkedin.com/in/hatim-adnane/) • [Email](mailto:hatimadnanepro@gmail.com) • Bordeaux 🍷
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/📍%20Bordeaux-France-8338ec?style=flat&labelColor=2a2a2a)
+![](https://img.shields.io/badge/🎯%20Status-Building-ff006e?style=flat&labelColor=2a2a2a)
+![](https://img.shields.io/badge/💭%20Focus-Data%20%2B%20Web-00d9ff?style=flat&labelColor=2a2a2a)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-hatimadnane.fr-8338ec?style=for-the-badge&labelColor=1a1a1a)](https://hatimadnane.fr)
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-hatim--adnane-0077B5?style=for-the-badge&labelColor=1a1a1a)](https://linkedin.com/in/hatim-adnane/)
+[![Email](https://img.shields.io/badge/📧%20Email-Me%20contacter-ff006e?style=for-the-badge&labelColor=1a1a1a)](mailto:hatimadnanepro@gmail.com)
 
 </div>
 
 ---
 
-## What I build
+## 🎨 Qui suis-je vraiment ?
 
-I work at the intersection of **data engineering** and **creative products** — shipping real systems that are both technically sound and genuinely delightful to use.
+Je suis obsédé par **l'intersection entre données et créativité**. Pas de données brutes sans sens, pas de belles interfaces sans fondations solides.
 
-That means:
-- **Data pipelines** that scale elegantly (Kafka → Spark → real-time dashboards)
-- **Weird web projects** that solve real problems with style
-- **BI dashboards** that stakeholders actually enjoy looking at
-- **Side projects** I push out because I can't not build them
+Je construis des systèmes qui sont à la fois **robustes sur le papier** et **délicieux à utiliser** — des pipelines qui scalent, des dashboards que les gens regardent volontairement, des sites que personne n'oublie.
 
-Right now: **Node.js backends on Vercel**, **Quarto dashboards with OJS**, **OCR + RAG chains**, and a pizza ordering system that makes way too much sense for a side project.
-
----
-
-## Projects that shaped me
-
-### 🍕 Kabana Pizz
-A restaurant site that's boring as hell on the surface. Underneath: **PostgreSQL backend**, **Resend for transactional email**, **Next.js**, deployed on Vercel with DNS on Cloudflare. Eight audit tickets closed. Every detail matters — CSP headers, SEO tags, email rendering on Outlook.
-
-[→ Live](https://kabanapizz.fr) · [→ Repo (private)](https://github.com/hatim381/KabanaPizz)
-
-### 📊 RetailVision
-Generative BI dashboard with **voice-driven navigation**, **LLM-narrated KPIs**, and a local analytical chatbot running Ollama + gemma3. Built to prove that AI doesn't need to be cloud-first to be useful.
-
-Streamlit frontend, custom DAX-like LLM reasoning, everything running locally. A thesis on what practical AI should look like.
-
-### 🌍 La Colombe Madagascar
-Minimal product site with **GA4 tracking**, **Google Reviews serverless endpoint**, **SEO fixes**, and a design that breathes. React + Vite + TypeScript. When a website for a small business is also a learning lab.
-
-[→ Live](https://lacolombemadagascar.com)
-
-### 🛒 KiVendTout
-A complete **medallion architecture** e-commerce platform running on ~20 Docker services. Kafka streams, Spark transformations, Flink real-time processing, Airflow orchestration, MinIO object storage, n8n automations looping back to Telegram.
-
-This isn't theory — it's a fully operational data system with multiple ingestion sources, transformation layers, and automated decision-making. The kind of project that teaches you what data engineering *actually means*.
-
-### 🎲 Side Projects That Shouldn't Exist But Do
-- **il_est_16h** — A workplace inside joke codified as a terminal emulator webpage with countdown timers and absurdist French office humor
-- **Carte** — An interactive digital invitation with 3D elements and complex event logic
-- **Polysecours** — A digital game teaching first aid to people with disabilities
-- **Vanille de Madagascar** — A static site that turns into a learning project about SEO, performance, and storytelling
-
----
-
-## How I think about tech
-
-I don't organize by framework or buzzword. I organize by **problem**.
-
-| When I need... | I reach for |
-|---|---|
-| **Data at scale** | Python (Pandas, Spark), SAS, R, SQL |
-| **Streaming pipelines** | Kafka, Flink, Airflow, n8n |
-| **Interactive dashboards** | Power BI + DAX, Quarto + OJS, Shiny |
-| **Real-time analytics** | PostgreSQL, MongoDB, Spark Streaming |
-| **Web products** | React, Next.js, Node.js, Vite, TypeScript |
-| **Deployment** | Docker, Vercel, GitHub Pages |
-| **AI/ML workflows** | scikit-learn, TensorFlow, Hugging Face, Ollama |
-| **Learning new things** | Jupyter, Streamlit, whatever looks interesting |
-
-The stack matters less than understanding the **tradeoffs**: Why PostgreSQL here and MongoDB there? Why Quarto instead of Tableau? Why build it myself when a SaaS exists?
-
----
-
-## What I'm learning now
-
-- **Fine-tuned LLMs** for domain-specific tasks (contracts, documents, analytics)
-- **OCR + RAG chains** that actually work on messy real-world documents  
-- **Multi-tenant data architectures** that don't collapse under complexity
-- How to make **data visualization** that tells a story instead of just showing numbers
-
----
-
-## Before this
-
-- 🎓 M1 Data Engineering & AI — **EFREI Bordeaux** (continuing to M2)
-- 💼 Apprenticeship, working on **data pipelines** that power real decisions
-- 🏆 Built a **food allergen detector** (Recall > 99%) with Hugging Face
-- 🎥 Shot and edited **360-degree videos** around Bordeaux (Insta360 X5)
-- ⚽ Spent entirely too long on pétanque tournaments and data-driven tournament management systems
-
----
-
-## Let's build something
-
-I'm always interested in:
-- **Data problems** that need elegant solutions
-- **Creative ideas** that need technical foundation
-- **Open source** projects that exist at the intersection of useful and beautiful
-- Projects that make people say *"How did you build that?"*
-
-Reach out if you're thinking about something that requires both **rigor and imagination**.
+> *Je transforme mes erreurs en leçons, souvent après avoir bien rigolé de moi-même.* 🎯
 
 ---
 
 <div align="center">
 
-*Qui transforme ses erreurs en leçons, souvent après avoir bien rigolé de soi-même.* 🎯
+### ✨ Ce que je fais
 
-Made with care in Bordeaux
+</div>
+
+- 🏗️ **Architectures data** qui respirent (Kafka → Spark → temps réel)
+- 🎪 **Projets web bizarres** qui résolvent de vrais problèmes avec style
+- 📊 **Dashboards BI** que les stakeholders veulent regarder
+- 💻 **Side projects** que je ne peux pas m'empêcher de lancer
+
+En ce moment : backends **Node.js sur Vercel**, dashboards **Quarto avec OJS**, chaînes **OCR + RAG**, et un système de pizza trop compliqué pour ce qu'il est.
+
+---
+
+## 🚀 Les projets qui m'ont façonné
+
+<div align="center">
+
+### 🍕 **Kabana Pizz** — L'obsession du détail
+
+</div>
+
+Site de restaurant qui a l'air banal. En dessous ? **PostgreSQL**, **Emails transactionnels Resend**, **Next.js**, déployé sur Vercel avec DNS sur Cloudflare.
+
+8 tickets d'audit fermés. Headers CSP, balises SEO, rendu d'email sur Outlook. **Chaque pixel compte.**
+
+<div align="center">
+
+[🔗 Voir le site](https://kabanapizz.fr) • [🔧 Repo](https://github.com/hatim381/KabanaPizz)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 **RetailVision** — IA pratique
+
+</div>
+
+Dashboard BI générative avec **navigation vocale**, **KPIs narrisés par LLM**, et un chatbot analytique local (Ollama + gemma3).
+
+Construit pour prouver que l'IA n'a pas besoin du cloud pour être utile. Frontend Streamlit, reasoning LLM custom, tout en local.
+
+**Une thèse sur ce que l'IA devrait être.**
+
+---
+
+<div align="center">
+
+### 🌍 **La Colombe Madagascar** — Quand un site devient un lab
+
+</div>
+
+Site produit minimaliste avec **GA4**, **endpoint serverless Google Reviews**, **fixes SEO**, une design qui respire.
+
+React + Vite + TypeScript. Un petit business qui devient un terrain d'expérimentation.
+
+<div align="center">
+
+[🔗 Voir le site](https://lacolombemadagascar.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛒 **KiVendTout** — Medallion architecture complet
+
+</div>
+
+Plateforme e-commerce complète tournant sur ~20 services Docker.
+
+Kafka streams → Spark transformations → Flink temps réel → Airflow orchestration → MinIO stockage → n8n automations → Telegram.
+
+**C'est pas de la théorie.** C'est un système data vivant avec multiples sources d'ingestion, couches de transformation, et prise de décision automatisée.
+
+Le projet qui t'enseigne ce que l'**engineering data** signifie vraiment.
+
+```
+┌─────────────┐      ┌──────────┐      ┌─────────┐      ┌──────────┐
+│   Kafka     │ ───> │  Spark   │ ───> │  Flink  │ ───> │ Database │
+│  (Streams)  │      │ (Batch)  │      │(Realtime)      │          │
+└─────────────┘      └──────────┘      └─────────┘      └──────────┘
+                                            │
+                                            v
+                                      ┌──────────┐
+                                      │ Airflow  │
+                                      │(Orchester)
+                                      └──────────┘
+```
+
+---
+
+<div align="center">
+
+### 🎲 **Projets qui n'auraient pas dû exister, mais qui existent**
+
+</div>
+
+| Projet | L'histoire |
+|--------|-----------|
+| **il_est_16h** | Une inside-joke du travail codifiée en émulateur de terminal avec compteurs à rebours et humour absurde français |
+| **Carte** | Invitation digitale interactive avec éléments 3D et logique d'événement complexe |
+| **Polysecours** | Jeu didactique enseignant les premiers secours aux personnes en situation de handicap |
+| **Vanille de Madagascar** | Site statique devenu lab d'expérimentation : SEO, performance, storytelling |
+
+---
+
+## 🛠️ Comment je pense la tech
+
+Je n'organise pas par framework ou buzzword. J'organise par **problème**.
+
+<div align="center">
+
+| Quand j'ai besoin... | Je chosis... |
+|---|---|
+| 📈 **Data à grande échelle** | `Python` · `Spark` · `SAS` · `R` · `SQL` |
+| 🌊 **Pipelines streaming** | `Kafka` · `Flink` · `Airflow` · `n8n` |
+| 📊 **Dashboards interactifs** | `Power BI + DAX` · `Quarto + OJS` · `Shiny` |
+| ⚡ **Analytics temps réel** | `PostgreSQL` · `MongoDB` · `Spark Streaming` |
+| 🌐 **Produits web** | `React` · `Next.js` · `Node.js` · `Vite` · `TypeScript` |
+| 🚀 **Déploiement** | `Docker` · `Vercel` · `GitHub Pages` |
+| 🤖 **ML & IA** | `scikit-learn` · `TensorFlow` · `Hugging Face` · `Ollama` |
+
+</div>
+
+**Le stack importe moins que comprendre les tradeoffs** :
+- Pourquoi PostgreSQL ici et MongoDB là ?
+- Pourquoi Quarto au lieu de Tableau ?
+- Pourquoi le construire plutôt qu'utiliser un SaaS ?
+
+---
+
+## 🧠 Ce que j'apprends maintenant
+
+- 🔬 **LLMs fine-tunés** pour tâches spécifiques au domaine (contrats, documents, analytics)
+- 📜 **Chaînes OCR + RAG** qui fonctionnent sur des documents messys réels
+- 🏗️ **Architectures multi-tenant** qui ne s'écroulent pas sous la complexité
+- 🎨 **Data visualization** qui raconte une histoire au lieu de juste montrer des chiffres
+
+---
+
+<div align="center">
+
+## 🎯 Construisons quelque chose d'incroyable
+
+</div>
+
+Je m'intéresse à :
+
+✨ **Problèmes data** qui nécessitent des solutions élégantes  
+✨ **Idées créatives** qui ont besoin de fondations techniques  
+✨ **Projets open source** aux carrefours du utile et du beau  
+✨ Trucs qui font dire aux gens : *"T'as fais ça comment ?!"*
+
+Contacte-moi si tu penses à un projet qui demande de la **rigueur ET de l'imagination**.
+
+---
+
+<div align="center">
+
+<br/>
+
+### 📚 Parcours rapide
+
+</div>
+
+| | |
+|---|---|
+| 🎓 | **M1 Data Engineering & IA** — EFREI Bordeaux (continuant vers M2) |
+| 💼 | **Alternance** — travaillant sur des pipelines qui alimentent des vraies décisions |
+| 🏆 | **Datathon** — détecteur d'allergènes alimentaires (Recall > 99%) avec Hugging Face |
+| 🎥 | **360° Creator** — tournage et montage autour de Bordeaux (Insta360 X5) |
+| ⚽ | **Pétanque** — peut-être trop de temps là-dessus... ou pas assez ? |
+
+---
+
+<div align="center">
+
+<img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:ff006e&height=100&section=footer&fontSize=0" width="100%"/>
+
+<br/>
+
+**Made with 💜 in Bordeaux**
+
+*Chaque erreur est une leçon déguisée.*
 
 </div>
