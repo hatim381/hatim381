@@ -1,104 +1,113 @@
 <div align="center">
 
-<img alt="Hatim Adnane — Data Engineer, BI Developer, AI Enthusiast" src="https://capsule-render.vercel.app/api?type=waving&color=0:003189,50:0066cc,100:00aaff&height=200&section=header&text=Hatim%20Adnane&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20·%20BI%20Developer%20·%20IA%20appliquée&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# Hatim Adnane
 
-*« Je transforme mes erreurs en leçons, souvent après avoir bien rigolé de moi-même.<br/>C'est ma façon d'apprendre en avançant ! »*
+**Data Engineer** • **Creative Technologist** • **Building things between data and web**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hatimadnane.fr-003189?style=flat-square&logo=googlechrome&logoColor=white)](https://hatimadnane.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hatim--adnane-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-adnane/)
-[![Email](https://img.shields.io/badge/Me_contacter-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hatimadnanepro@gmail.com)
-[![Localisation](https://img.shields.io/badge/Bordeaux-France-555?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[Portfolio](https://hatimadnane.fr) • [LinkedIn](https://linkedin.com/in/hatim-adnane/) • [Email](mailto:hatimadnanepro@gmail.com) • Bordeaux 🍷
 
 </div>
 
 ---
 
-## Qui suis-je ?
+## What I build
 
-Apprenti **Data Engineer** à l'**ARS Nouvelle-Aquitaine** (Pôle Études & Statistiques) et étudiant en **M2 Data Engineering & IA** à l'**EFREI Bordeaux**.
+I work at the intersection of **data engineering** and **creative products** — shipping real systems that are both technically sound and genuinely delightful to use.
 
-Je couvre toute la chaîne de la donnée — collecte, transformation, modélisation, restitution — avec une spécialisation **santé publique** et **IA appliquée**. Concrètement : des pipelines SAS/R/Python qui tournent en production, des tableaux de bord Power BI utilisés par des décideurs, et des projets perso qui me servent de terrain d'expérimentation.
+That means:
+- **Data pipelines** that scale elegantly (Kafka → Spark → real-time dashboards)
+- **Weird web projects** that solve real problems with style
+- **BI dashboards** that stakeholders actually enjoy looking at
+- **Side projects** I push out because I can't not build them
 
-**Certifié Microsoft PL-300** · Bordeaux, France · Ouvert aux échanges sur la data santé, la BI et l'IA appliquée.
-
----
-
-## En ce moment
-
-- 🏥 Pipelines financiers **CF / EPRD / RIA** et tableaux de bord Power BI pour ~145 établissements de santé
-- 🔎 Chaînes **OCR + RAG** et pré-qualification documentaire avec l'API Albert (LLM de l'État)
-- 📈 Rapports d'observatoire en **Quarto** avec visualisations interactives (OJS, crosstalk)
-- 🍕 Side projects web : sites vitrines, backends Node/PostgreSQL sur Vercel, outils de gestion de tournois
+Right now: **Node.js backends on Vercel**, **Quarto dashboards with OJS**, **OCR + RAG chains**, and a pizza ordering system that makes way too much sense for a side project.
 
 ---
 
-## Stack technique
+## Projects that shaped me
 
-| | |
+### 🍕 Kabana Pizz
+A restaurant site that's boring as hell on the surface. Underneath: **PostgreSQL backend**, **Resend for transactional email**, **Next.js**, deployed on Vercel with DNS on Cloudflare. Eight audit tickets closed. Every detail matters — CSP headers, SEO tags, email rendering on Outlook.
+
+[→ Live](https://kabanapizz.fr) · [→ Repo (private)](https://github.com/hatim381/KabanaPizz)
+
+### 📊 RetailVision
+Generative BI dashboard with **voice-driven navigation**, **LLM-narrated KPIs**, and a local analytical chatbot running Ollama + gemma3. Built to prove that AI doesn't need to be cloud-first to be useful.
+
+Streamlit frontend, custom DAX-like LLM reasoning, everything running locally. A thesis on what practical AI should look like.
+
+### 🌍 La Colombe Madagascar
+Minimal product site with **GA4 tracking**, **Google Reviews serverless endpoint**, **SEO fixes**, and a design that breathes. React + Vite + TypeScript. When a website for a small business is also a learning lab.
+
+[→ Live](https://lacolombemadagascar.com)
+
+### 🛒 KiVendTout
+A complete **medallion architecture** e-commerce platform running on ~20 Docker services. Kafka streams, Spark transformations, Flink real-time processing, Airflow orchestration, MinIO object storage, n8n automations looping back to Telegram.
+
+This isn't theory — it's a fully operational data system with multiple ingestion sources, transformation layers, and automated decision-making. The kind of project that teaches you what data engineering *actually means*.
+
+### 🎲 Side Projects That Shouldn't Exist But Do
+- **il_est_16h** — A workplace inside joke codified as a terminal emulator webpage with countdown timers and absurdist French office humor
+- **Carte** — An interactive digital invitation with 3D elements and complex event logic
+- **Polysecours** — A digital game teaching first aid to people with disabilities
+- **Vanille de Madagascar** — A static site that turns into a learning project about SEO, performance, and storytelling
+
+---
+
+## How I think about tech
+
+I don't organize by framework or buzzword. I organize by **problem**.
+
+| When I need... | I reach for |
 |---|---|
-| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SAS](https://img.shields.io/badge/SAS-003189?style=flat-square&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Data Engineering** | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Flink](https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
-| **BI & Dataviz** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-003189?style=flat-square&logoColor=white) ![Shiny](https://img.shields.io/badge/R%20Shiny-276DC3?style=flat-square&logo=r&logoColor=white) ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat-square&logo=quarto&logoColor=white) ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white) |
-| **ML & IA** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Web & Data** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| **Data at scale** | Python (Pandas, Spark), SAS, R, SQL |
+| **Streaming pipelines** | Kafka, Flink, Airflow, n8n |
+| **Interactive dashboards** | Power BI + DAX, Quarto + OJS, Shiny |
+| **Real-time analytics** | PostgreSQL, MongoDB, Spark Streaming |
+| **Web products** | React, Next.js, Node.js, Vite, TypeScript |
+| **Deployment** | Docker, Vercel, GitHub Pages |
+| **AI/ML workflows** | scikit-learn, TensorFlow, Hugging Face, Ollama |
+| **Learning new things** | Jupyter, Streamlit, whatever looks interesting |
+
+The stack matters less than understanding the **tradeoffs**: Why PostgreSQL here and MongoDB there? Why Quarto instead of Tableau? Why build it myself when a SaaS exists?
 
 ---
 
-## Projets phares
+## What I'm learning now
 
-### 📊 TDB Financement — ARS Nouvelle-Aquitaine
-Tableau de bord Power BI de suivi financier couvrant **145 établissements de santé** (CF / EPRD / RIA).
-Pipeline ETL complet **SAS → R → SharePoint → Power BI**, mesures DAX avancées et visuels HTML sur mesure.
-`SAS · R · Power BI · DAX`
-
-### 🏪 KiVendTout — Plateforme e-commerce Data Engineering
-Architecture **medallion** (Bronze / Silver / Gold) déployée sur une vingtaine de services Docker.
-Pipelines streaming temps réel, orchestration Airflow, automatisations IA (Gemini, Telegram).
-`Kafka · Spark · Flink · Airflow · MinIO · PostgreSQL · n8n · Docker`
-
-### 🧠 Datathon IA SCHOOL — Détection d'allergènes
-Prédiction des allergènes alimentaires sur Open Food Facts, avec un objectif de **zéro faux négatif** — contrainte forte quand une erreur peut envoyer quelqu'un aux urgences. **Recall > 99 %**.
-`Python · Hugging Face · Jupyter · Node.js`
-
-### 🎗️ Dépistage du cancer du sein — Data Visualisation
-Analyse des taux de participation au dépistage pour cibler les actions de prévention sur les territoires les moins couverts.
-`R · Shiny · ggplot2`
-
-<details>
-<summary><b>Voir les autres projets</b></summary>
-
-<br/>
-
-| Projet | Description | Stack |
-|---|---|---|
-| **Indicateurs de premier recours** | Tableau de bord pour réduire le recours aux urgences et optimiser le temps médical | `Power BI · DAX` |
-| **La Colombe Madagascar** | Site vitrine avec GA4, SEO et endpoint serverless Google Reviews — [voir le site](https://lacolombemadagascar.com) | `React · Vite · TypeScript` |
-| **RetailVision** | Dashboard BI génératif : navigation vocale, narration de KPI, chatbot analytique local | `Python · Ollama · Streamlit` |
-| **Hackathon Donnée.en.Région 2024** | Valorisation de données territoriales open data en Nouvelle-Aquitaine | `Python · Dataviz` |
-| **Vanille de Madagascar** | Site vitrine pour un producteur souhaitant vendre en ligne — [voir le site](https://vanille-madagascar.github.io/) | `HTML · CSS · JS` |
-| **Polysecours** | Jeu de société numérique de sensibilisation aux premiers secours pour travailleurs handicapés | `HTML · JavaScript` |
-
-</details>
+- **Fine-tuned LLMs** for domain-specific tasks (contracts, documents, analytics)
+- **OCR + RAG chains** that actually work on messy real-world documents  
+- **Multi-tenant data architectures** that don't collapse under complexity
+- How to make **data visualization** that tells a story instead of just showing numbers
 
 ---
 
-## Parcours
+## Before this
 
-| Période | Diplôme / Poste | Structure |
-|---|---|---|
-| depuis 2023 | **Apprenti Data Engineer** — Pôle Études & Statistiques | ARS Nouvelle-Aquitaine |
-| 2024 – 2027 | M1 → M2 Data Engineering & IA | EFREI Bordeaux |
-| 2022 – 2025 | Bachelor IA & Management | IA School — Paris |
-| 2019 – 2022 | Licence Informatique | Université de Bordeaux |
+- 🎓 M1 Data Engineering & AI — **EFREI Bordeaux** (continuing to M2)
+- 💼 Apprenticeship, working on **data pipelines** that power real decisions
+- 🏆 Built a **food allergen detector** (Recall > 99%) with Hugging Face
+- 🎥 Shot and edited **360-degree videos** around Bordeaux (Insta360 X5)
+- ⚽ Spent entirely too long on pétanque tournaments and data-driven tournament management systems
 
-**Certifications** — Microsoft **PL-300** *Power BI Data Analyst* (2024) · Power BI : analyse de données, DAX & dataviz, CEGOS (2024)
+---
+
+## Let's build something
+
+I'm always interested in:
+- **Data problems** that need elegant solutions
+- **Creative ideas** that need technical foundation
+- **Open source** projects that exist at the intersection of useful and beautiful
+- Projects that make people say *"How did you build that?"*
+
+Reach out if you're thinking about something that requires both **rigor and imagination**.
 
 ---
 
 <div align="center">
 
-Hors écran : pétanque, vélo, et une caméra 360 qui traîne dans Bordeaux 🚴
+*Qui transforme ses erreurs en leçons, souvent après avoir bien rigolé de soi-même.* 🎯
 
-<img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,50:0066cc,100:003189&height=110&section=footer" width="100%"/>
+Made with care in Bordeaux
 
 </div>
