@@ -1,161 +1,104 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003189,50:0066cc,100:00aaff&height=220&section=header&text=Hatim%20Adnane&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20·%20BI%20Developer%20·%20AI%20Enthusiast&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img alt="Hatim Adnane — Data Engineer, BI Developer, AI Enthusiast" src="https://capsule-render.vercel.app/api?type=waving&color=0:003189,50:0066cc,100:00aaff&height=200&section=header&text=Hatim%20Adnane&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20·%20BI%20Developer%20·%20IA%20appliquée&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+*« Je transforme mes erreurs en leçons, souvent après avoir bien rigolé de moi-même.<br/>C'est ma façon d'apprendre en avançant ! »*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hatimadnane.fr-003189?style=flat-square&logo=googlechrome&logoColor=white)](https://hatimadnane.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hatim--adnane-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-adnane/)
+[![Email](https://img.shields.io/badge/Me_contacter-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hatimadnanepro@gmail.com)
+[![Localisation](https://img.shields.io/badge/Bordeaux-France-555?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
-<br/>
+---
 
-<div align="center">
+## Qui suis-je ?
 
-> *« Je transforme mes erreurs en leçons, souvent après avoir bien rigolé de moi-même. C'est ma façon d'apprendre en avançant ! »* 🎯
+Apprenti **Data Engineer** à l'**ARS Nouvelle-Aquitaine** (Pôle Études & Statistiques) et étudiant en **M2 Data Engineering & IA** à l'**EFREI Bordeaux**.
 
-</div>
+Je couvre toute la chaîne de la donnée — collecte, transformation, modélisation, restitution — avec une spécialisation **santé publique** et **IA appliquée**. Concrètement : des pipelines SAS/R/Python qui tournent en production, des tableaux de bord Power BI utilisés par des décideurs, et des projets perso qui me servent de terrain d'expérimentation.
+
+**Certifié Microsoft PL-300** · Bordeaux, France · Ouvert aux échanges sur la data santé, la BI et l'IA appliquée.
 
 ---
 
-## 🙋 Qui suis-je ?
+## En ce moment
 
-Apprenti **Data Engineer** à l'**ARS Nouvelle-Aquitaine** (Agence Régionale de Santé) et étudiant en **M1 Data Engineering & IA** à l'**EFREI Bordeaux**.
-
-Je travaille sur toute la chaîne de la donnée — collecte, transformation, modélisation, visualisation — avec une spécialisation en **santé publique** et **intelligence artificielle appliquée**.
-
-- 🏢 **Alternant** · ARS Nouvelle-Aquitaine — Pôle Études & Statistiques · *depuis sept. 2023*
-- 🎓 **M1 Data Engineering & IA** · EFREI Bordeaux *(2024–2025)*
-- 📜 **Certifié Microsoft Power BI PL-300**
-- 📍 Bordeaux, France
-- 🌐 [hatimadnane.fr](https://hatimadnane.fr)
+- 🏥 Pipelines financiers **CF / EPRD / RIA** et tableaux de bord Power BI pour ~145 établissements de santé
+- 🔎 Chaînes **OCR + RAG** et pré-qualification documentaire avec l'API Albert (LLM de l'État)
+- 📈 Rapports d'observatoire en **Quarto** avec visualisations interactives (OJS, crosstalk)
+- 🍕 Side projects web : sites vitrines, backends Node/PostgreSQL sur Vercel, outils de gestion de tournois
 
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 
-**Langages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-003189?style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Data Engineering & Orchestration**
-
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Flink](https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-**BI & Visualisation**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-003189?style=for-the-badge&logoColor=white)
-![R Shiny](https://img.shields.io/badge/R%20Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-**Machine Learning & IA**
-
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Bases de données**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+| | |
+|---|---|
+| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SAS](https://img.shields.io/badge/SAS-003189?style=flat-square&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Data Engineering** | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Flink](https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
+| **BI & Dataviz** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-003189?style=flat-square&logoColor=white) ![Shiny](https://img.shields.io/badge/R%20Shiny-276DC3?style=flat-square&logo=r&logoColor=white) ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat-square&logo=quarto&logoColor=white) ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white) |
+| **ML & IA** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Web & Data** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
 ---
 
-## 🚀 Projets phares
-
-### 🏪 KiVendTout — Plateforme e-commerce Data Engineering
-> Architecture **medallion** (Bronze / Silver / Gold) sur ~20 services Docker  
-> Pipelines streaming temps réel · Orchestration Airflow · Automatisations IA (Gemini, Telegram)  
-> `Kafka · Spark · Flink · Airflow · MinIO · PostgreSQL · n8n · Docker`
-
----
+## Projets phares
 
 ### 📊 TDB Financement — ARS Nouvelle-Aquitaine
-> Dashboard Power BI couvrant **145 établissements de santé** (CF / EPRD / RIA)  
-> Pipeline ETL complet : **SAS → R → SharePoint → Power BI**  
-> Mesures DAX avancées · Visuels HTML custom · Palette ARS `#003189`
+Tableau de bord Power BI de suivi financier couvrant **145 établissements de santé** (CF / EPRD / RIA).
+Pipeline ETL complet **SAS → R → SharePoint → Power BI**, mesures DAX avancées et visuels HTML sur mesure.
+`SAS · R · Power BI · DAX`
 
----
+### 🏪 KiVendTout — Plateforme e-commerce Data Engineering
+Architecture **medallion** (Bronze / Silver / Gold) déployée sur une vingtaine de services Docker.
+Pipelines streaming temps réel, orchestration Airflow, automatisations IA (Gemini, Telegram).
+`Kafka · Spark · Flink · Airflow · MinIO · PostgreSQL · n8n · Docker`
 
-### 🎗️ Data Visualisation Cancer du Sein
-> Analyse de la participation au dépistage pour optimiser les actions de santé publique  
-> `R · R Shiny · ggplot2`
+### 🧠 Datathon IA SCHOOL — Détection d'allergènes
+Prédiction des allergènes alimentaires sur Open Food Facts, avec un objectif de **zéro faux négatif** — contrainte forte quand une erreur peut envoyer quelqu'un aux urgences. **Recall > 99 %**.
+`Python · Hugging Face · Jupyter · Node.js`
 
----
+### 🎗️ Dépistage du cancer du sein — Data Visualisation
+Analyse des taux de participation au dépistage pour cibler les actions de prévention sur les territoires les moins couverts.
+`R · Shiny · ggplot2`
 
-### 🏥 Indicateurs de Premier Recours
-> Tableau de bord interactif pour réduire le recours aux urgences et optimiser le temps médical  
-> `Power BI · DAX`
-
----
-
-### 🧠 Datathon IA SCHOOL — Allergies alimentaires
-> Prédiction des allergènes sur Open Food Facts avec Hugging Face  
-> 🎯 **Recall > 99%, zéro faux négatif**  
-> `Python · Jupyter · Node.js · Hugging Face`
-
----
-
-### 🌿 Vanille de Madagascar
-> Site web vitrine pour un producteur de vanille souhaitant vendre en ligne  
-> `HTML · CSS · JavaScript` · [Voir le site](https://vanille-madagascar.github.io/)
-
----
-
-### 🌍 Hackathon Donnée.en.Région 2024
-> Valorisation des données territoriales · Hackathon Nouvelle-Aquitaine open data  
-> `Python · Data visualisation · Interopérabilité`
-
----
-
-### 🎲 Polysecours
-> Jeu de société numérique pour sensibiliser les travailleurs handicapés aux gestes de premiers secours  
-> `HTML · JavaScript`
-
----
-
-## 🎓 Formations
-
-| Période | Diplôme | École |
-|---|---|---|
-| 2024 – 2026 | M1 → M2 Data Engineering & IA | EFREI Bordeaux |
-| 2022 – 2025 | Bachelor IA & Management | IA School – Paris |
-| 2019 – 2022 | Licence Informatique | Université de Bordeaux |
-| 2018 – 2019 | Baccalauréat Scientifique (Mention AB) | Lycée Français – Tananarive |
-
----
-
-## 📜 Certifications
-
-| Année | Certification | Organisme |
-|---|---|---|
-| 2024 | **Microsoft Power BI PL-300** | Microsoft |
-| 2024 | Power BI – Analyse de données (DAX, Dataviz) | CEGOS |
-
----
-
-
-## 🌐 Me retrouver
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hatimadnane.fr-003189?style=for-the-badge)](https://hatimadnane.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hatim%20Adnane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-adnane/)
-[![Email](https://img.shields.io/badge/Email-hatimadnanepro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatimadnanepro@gmail.com)
-
-</div>
+<details>
+<summary><b>Voir les autres projets</b></summary>
 
 <br/>
 
+| Projet | Description | Stack |
+|---|---|---|
+| **Indicateurs de premier recours** | Tableau de bord pour réduire le recours aux urgences et optimiser le temps médical | `Power BI · DAX` |
+| **La Colombe Madagascar** | Site vitrine avec GA4, SEO et endpoint serverless Google Reviews — [voir le site](https://lacolombemadagascar.com) | `React · Vite · TypeScript` |
+| **RetailVision** | Dashboard BI génératif : navigation vocale, narration de KPI, chatbot analytique local | `Python · Ollama · Streamlit` |
+| **Hackathon Donnée.en.Région 2024** | Valorisation de données territoriales open data en Nouvelle-Aquitaine | `Python · Dataviz` |
+| **Vanille de Madagascar** | Site vitrine pour un producteur souhaitant vendre en ligne — [voir le site](https://vanille-madagascar.github.io/) | `HTML · CSS · JS` |
+| **Polysecours** | Jeu de société numérique de sensibilisation aux premiers secours pour travailleurs handicapés | `HTML · JavaScript` |
+
+</details>
+
+---
+
+## Parcours
+
+| Période | Diplôme / Poste | Structure |
+|---|---|---|
+| depuis 2023 | **Apprenti Data Engineer** — Pôle Études & Statistiques | ARS Nouvelle-Aquitaine |
+| 2024 – 2027 | M1 → M2 Data Engineering & IA | EFREI Bordeaux |
+| 2022 – 2025 | Bachelor IA & Management | IA School — Paris |
+| 2019 – 2022 | Licence Informatique | Université de Bordeaux |
+
+**Certifications** — Microsoft **PL-300** *Power BI Data Analyst* (2024) · Power BI : analyse de données, DAX & dataviz, CEGOS (2024)
+
+---
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,50:0066cc,100:003189&height=120&section=footer" width="100%"/>
+
+Hors écran : pétanque, vélo, et une caméra 360 qui traîne dans Bordeaux 🚴
+
+<img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,50:0066cc,100:003189&height=110&section=footer" width="100%"/>
+
 </div>
