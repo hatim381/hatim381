@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Pipelines : ARS, KiVendTout, RetailVision">
+<title>Pipelines : ARS, KiVendTout, RetailVision</title>
+<style>
+  .rise { opacity:0; animation: rise 800ms cubic-bezier(0.4,0,0.2,1) both; }
+  @keyframes rise { from { opacity:0; transform: translateY(20px); } to { opacity:1; transform:none; } }
+  .fade { opacity:0; animation: fade 600ms cubic-bezier(0.4,0,0.2,1) both; }
+  @keyframes fade { to { opacity:1; } }
+  .spark { animation: spark ease-in-out infinite; opacity:0; }
+  @keyframes spark { 0%,100% { opacity:0; } 50% { opacity:.9; } }
+  .breathe { animation: breathe 3000ms ease-in-out infinite; transform-box: fill-box; transform-origin:center; }
+  @keyframes breathe { 0%,100% { opacity:.85; transform: scale(.98); } 50% { opacity:1; transform: scale(1.02); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity:1 !important; } }
+</style>
+
+<defs><clipPath id="f"><rect width="1200" height="360" rx="18"/></clipPath></defs>
+<g clip-path="url(#f)">
+  <rect width="1200" height="360" fill="#0b1f3a"/>
+  <text class="fade" x="40" y="26" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="3" fill="#c9a227" opacity=".8">CE QUE JE CONSTRUIS</text>
+  <g class="rise" style="animation-delay:0ms">
+  <text x="40" y="72" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#f5f1e8">Au quotidien</text>
+  <text x="40" y="94" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#8fa3c0">ARS</text>
+  <line x1="340" y1="98.0" x2="1165" y2="98.0" stroke="#c9a227" stroke-opacity=".22" stroke-width="2" stroke-dasharray="3 7" stroke-linecap="round"/>
+  <g class="breathe" style="animation-delay:0.0s"><rect x="340" y="46.0" width="187" height="40" rx="10" fill="#0b1f3a" fill-opacity="0.9" stroke="#c9a227" stroke-opacity="0.55"/><text x="433" y="72" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#f5f1e8">SAS</text></g>
+  <g class="breathe" style="animation-delay:0.6s"><rect x="553" y="46.0" width="187" height="40" rx="10" fill="#0b1f3a" fill-opacity="0.9" stroke="#c9a227" stroke-opacity="0.55"/><text x="646" y="72" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#f5f1e8">R</text></g>
+  <g class="breathe" style="animation-delay:1.2s"><rect x="766" y="46.0" width="187" height="40" rx="10" fill="#0b1f3a" fill-opacity="0.9" stroke="#c9a227" stroke-opacity="0.55"/><text x="859" y="72" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#f5f1e8">SharePoint</text></g>
+  <g class="breathe" style="animation-delay:1.8s"><rect x="978" y="46.0" width="187" height="40" rx="10" fill="#c9a227" fill-opacity="1" stroke="#c9a227" stroke-opacity="1"/><text x="1072" y="72" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#0b1f3a">Power BI</text></g>
+  <circle r="3.5" fill="#c9a227" opacity="0"><animateMotion path="M340 98.0 L1165 98.0" dur="3.3s" begin="1.00s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="3.3s" begin="1.00s" repeatCount="indefinite"/></circle>
+  <circle r="3.5" fill="#c9a227" opacity="0"><animateMotion path="M340 98.0 L1165 98.0" dur="3.3s" begin="2.10s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="3.3s" begin="2.10s" repeatCount="indefinite"/></circle>
+  <circle r="3.5" fill="#c9a227" opacity="0"><animateMotion path="M340 98.0 L1165 98.0" dur="3.3s" begin="3.20s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="3.3s" begin="3.20s" repeatCount="indefinite"/></circle>
+  </g>
+<g class="rise" style="animation-delay:150ms">
+  <text x="40" y="174" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#f5f1e8">KiVendTout</text>
+  <text x="40" y="196" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#8fa3c0">~20 services Docker</text>
+  <line x1="340" y1="200.0" x2="1165" y2="200.0" stroke="#c9a227" stroke-opacity=".22" stroke-width="2" stroke-dasharray="3 7" stroke-linecap="round"/>
+  <g class="breathe" style="animation-delay:0.0s"><rect x="340" y="148.0" width="144" height="40" rx="10" fill="#0b1f3a" fill-opacity="0.9" stroke="#c9a227" stroke-opacity="0.55"/><text x="412" y="174" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#f5f1e8">Kafka</text></g>
+  <g class="breathe" style="animation-delay:0.6s"><rect x="510" y="148.0" width="144" height="40" rx="10" fill="#0b1f3a" fill-opacity="0.9" stroke="#c9a227" stroke-opacity="0.55"/><text x="582" y="174" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#f5f1e8">Bronze</text></g>
+  <g class="breathe" style="animation-delay:1.2s"><rect x="680" y="148.0" width="144" height="40" rx="10" fill="#0b1f3a" fill-opacity="0.9" stroke="#c9a227" stroke-opacity="0.55"/><text x="752" y="174" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#f5f1e8">Silver</text></g>
+  <g class="breathe" style="animation-delay:1.8s"><rect x="851" y="148.0" width="144" height="40" rx="10" fill="#0b1f3a" fill-opacity="0.9" stroke="#c9a227" stroke-opacity="0.55"/><text x="923" y="174" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#f5f1e8">Gold</text></g>
+  <g class="breathe" style="animation-delay:2.4s"><rect x="1021" y="148.0" width="144" height="40" rx="10" fill="#c9a227" fill-opacity="1" stroke="#c9a227" stroke-opacity="1"/><text x="1093" y="174" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#0b1f3a">Dashboards</text></g>
+  <circle r="3.5" fill="#c9a227" opacity="0"><animateMotion path="M340 200.0 L1165 200.0" dur="4.4s" begin="1.15s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="4.4s" begin="1.15s" repeatCount="indefinite"/></circle>
+  <circle r="3.5" fill="#c9a227" opacity="0"><animateMotion path="M340 200.0 L1165 200.0" dur="4.4s" begin="2.62s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="4.4s" begin="2.62s" repeatCount="indefinite"/></circle>
+  <circle r="3.5" fill="#c9a227" opacity="0"><animateMotion path="M340 200.0 L1165 200.0" dur="4.4s" begin="4.08s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="4.4s" begin="4.08s" repeatCount="indefinite"/></circle>
+  </g>
+<g class="rise" style="animation-delay:300ms">
+  <text x="40" y="276" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#f5f1e8">RetailVision</text>
+  <text x="40" y="298" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#8fa3c0">100 % local</text>
+  <line x1="340" y1="302.0" x2="1165" y2="302.0" stroke="#c9a227" stroke-opacity=".22" stroke-width="2" stroke-dasharray="3 7" stroke-linecap="round"/>
+  <g class="breathe" style="animation-delay:0.0s"><rect x="340" y="250.0" width="187" height="40" rx="10" fill="#0b1f3a" fill-opacity="0.9" stroke="#c9a227" stroke-opacity="0.55"/><text x="433" y="276" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#f5f1e8">Voix</text></g>
+  <g class="breathe" style="animation-delay:0.6s"><rect x="553" y="250.0" width="187" height="40" rx="10" fill="#0b1f3a" fill-opacity="0.9" stroke="#c9a227" stroke-opacity="0.55"/><text x="646" y="276" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#f5f1e8">STT local</text></g>
+  <g class="breathe" style="animation-delay:1.2s"><rect x="766" y="250.0" width="187" height="40" rx="10" fill="#0b1f3a" fill-opacity="0.9" stroke="#c9a227" stroke-opacity="0.55"/><text x="859" y="276" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#f5f1e8">Ollama</text></g>
+  <g class="breathe" style="animation-delay:1.8s"><rect x="978" y="250.0" width="187" height="40" rx="10" fill="#c9a227" fill-opacity="1" stroke="#c9a227" stroke-opacity="1"/><text x="1072" y="276" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#0b1f3a">KPIs commentés</text></g>
+  <circle r="3.5" fill="#c9a227" opacity="0"><animateMotion path="M340 302.0 L1165 302.0" dur="3.3s" begin="1.30s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="3.3s" begin="1.30s" repeatCount="indefinite"/></circle>
+  <circle r="3.5" fill="#c9a227" opacity="0"><animateMotion path="M340 302.0 L1165 302.0" dur="3.3s" begin="2.40s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="3.3s" begin="2.40s" repeatCount="indefinite"/></circle>
+  <circle r="3.5" fill="#c9a227" opacity="0"><animateMotion path="M340 302.0 L1165 302.0" dur="3.3s" begin="3.50s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="3.3s" begin="3.50s" repeatCount="indefinite"/></circle>
+  </g>
+</g>
+</svg>
