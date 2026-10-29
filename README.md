@@ -1,110 +1,70 @@
 <div align="center">
 
-<img alt="Hatim Adnane" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,100:c9a227&height=170&section=header&text=Hatim%20Adnane&fontSize=46&fontColor=f5f1e8&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20Sant%C3%A9%20publique%20%C2%B7%20Web%20%26%20IA%20locale&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img alt="Hatim Adnane" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,100:c9a227&height=180&section=header&text=HATIM%20ADNANE&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Sante%20publique%20%7C%20IA%20locale&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+
+<a href="https://hatimadnane.fr">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=C9A227&center=true&vCenter=true&width=600&lines=Pipelines+SAS+%E2%86%92+R+%E2%86%92+Power+BI;Kafka+%E2%86%92+Spark+%E2%86%92+Flink;IA+qui+tourne+en+local;Bordeaux%2C+France" alt="Typing SVG"/>
+</a>
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hatimadnane.fr-0b1f3a?style=for-the-badge)](https://hatimadnane.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hatim--adnane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hatim-adnane/)
-[![Email](https://img.shields.io/badge/Email-hatimadnanepro%40gmail.com-c9a227?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatimadnanepro@gmail.com)
-
-![](https://img.shields.io/badge/Bordeaux-France-0b1f3a?style=flat-square)
-![](https://img.shields.io/badge/M1-Data%20Engineering%20%26%20IA%20·%20EFREI-0b1f3a?style=flat-square)
-![](https://img.shields.io/badge/Microsoft-PL--300%20certifié-c9a227?style=flat-square&logo=powerbi&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-Me%20contacter-c9a227?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatimadnanepro@gmail.com)
 
 </div>
 
 ---
 
-### En deux phrases
+### 👋 Salut, moi c'est Hatim
 
-Le jour, je construis les pipelines qui alimentent le pilotage financier des **~150 établissements de santé de Nouvelle-Aquitaine**. Le soir, je livre des **sites en production pour de vrais clients**, de Brie-Comte-Robert à Madagascar, et j'expérimente l'**IA qui tourne en local**.
+Apprenti **Data Engineer** à l'ARS Nouvelle-Aquitaine et étudiant en **M1 Data Engineering & IA** à l'EFREI Bordeaux.
+Je transforme de la donnée de santé brute en tableaux de bord qui servent à piloter **~150 établissements**.
 
----
-
-### 🏥 En alternance — ARS Nouvelle-Aquitaine
-
-Apprenti Data Engineer au Pôle Études et Statistiques. Ce que ça veut dire concrètement :
-
-- **Pipeline TDB Financement** : `SAS → R → SharePoint → Power BI`, de la donnée brute des Comptes Financiers, EPRD et RIA jusqu'au tableau de bord utilisé par les équipes de financement
-- **Indicateurs hospitaliers 2019–2025** : endettement, résultat, marge brute, CAF, matrices d'évolution par établissement (FINESS) en Python/Plotly
-- **Mesures DAX avancées** (dont rendu HTML) pour masse salariale, ETP et comptes financiers
-- **Rapports et apps Quarto / Shiny** : dépistage du cancer du sein, soins palliatifs, observatoire de santé
-- **IA souveraine** : OCR + RAG sur des contrats avec l'API Albert, outil de tri de CV en Python
-
-`SAS` `R` `Python` `SQL` `Power BI / DAX` `Quarto` `Shiny` `PMSI` `FINESS` `SNDS`
+🏅 Certifié **Microsoft PL-300** · 🏆 Datathon : détection d'allergènes, **recall > 99 %**
 
 ---
 
-### 🚀 En production
-
-| Projet | Pour qui | Ce qu'il y a sous le capot |
-|---|---|---|
-| **[Kabana Pizz](https://kabanapizz.fr)** · [repo](https://github.com/hatim381/KabanaPizz) | Pizzeria à Brie-Comte-Robert, commandes réelles chaque jour | Front vanilla JS + Node.js serverless (Vercel), PostgreSQL Neon, emails Resend, rate limiter en base, détection d'allergènes, **PWA installable** (136/136 tests), migration DNS sans coupure ni perte de mail |
-| **[Sambi Basket](https://sambi-basket.vercel.app)** · [repo](https://github.com/hatim381/Sambi-Basket) | Commerce à Ambanja, Madagascar | E-commerce bilingue **malgache / français**, catalogue piloté par Google Sheets : le client met à jour sa boutique sans toucher au code |
-| **Quincaillerie Vao2 Sanfily** · [repo](https://github.com/hatim381/quincaillerie-vao2-sanfily-tulear) | Quincaillerie à Tuléar, Madagascar | React, catalogue réel depuis Google Sheets, panier et commande via WhatsApp / Messenger, pensé pour un marché sans paiement en ligne |
-| **[La Colombe Madagascar](https://lacolombemadagascar.com)** | Marque produit | React + Vite + TypeScript, GA4, endpoint serverless pour les avis Google, SEO |
-| **[SAFINA](https://safina-five.vercel.app)** | Mon studio | Expérience 3D scrollée : une pirogue traverse vers le Pain de Sucre. React Three Fiber, GSAP, Lenis, océan Gerstner |
-
----
-
-### 🧪 Data engineering & IA
-
-**KiVendTout** — plateforme e-commerce en architecture médaillon, ~20 services Docker.
+### ⚡ Ce que je construis
 
 ```
- Sources ─► Kafka ─► Bronze ─► Silver ─► Gold ─► Dashboards · Telegram
-            stream    MinIO     Spark     Spark
-              │
-              └──► Flink (temps réel)
-
- Orchestration : Airflow        Automatisations : n8n
+  SAS  ──►  R  ──►  SharePoint  ──►  Power BI         ← au quotidien, à l'ARS
+  Kafka ──► Bronze ──► Silver ──► Gold ──► Dashboards  ← KiVendTout, ~20 services Docker
+  Voix ──► LLM local (Ollama) ──► KPIs commentés      ← RetailVision, 100 % hors cloud
 ```
 
-**RetailVision** — dashboard BI génératif : navigation vocale, KPIs commentés par LLM, chatbot analytique **100 % local** (Ollama + gemma3). Évalué sur WER, latence et exactitude des commandes.
-
-**Veille automatisée (n8n)** — Google News, TLDR Data et scores de foot → extraction → résumé par LLM local ou Gemini → Notion, Telegram, WhatsApp Cloud API.
-
-**Projets académiques** — NLP sur les radios F1 d'Aston Martin (TF-IDF, LDA, sentiment RoBERTa, corrélation FastF1) · classification des retards de vols US (XGBoost + Streamlit) · **Datathon** : détection d'allergènes alimentaires, recall > 99 % (Hugging Face).
-
 ---
 
-### 🎲 Les projets pour le plaisir
+### 🛠️ Stack
 
-| | |
-|---|---|
-| **Pétanque Royale** | Simulateur 3D de pétanque en un seul fichier HTML (Three.js), contre l'IA ou à deux |
-| **il_est_16h** | Une blague du bureau devenue émulateur de terminal avec compte à rebours |
-| **Carte** | Invitation numérique interactive, réponses enregistrées dans Google Sheets via Apps Script |
-| **Polysecours** | Jeu pour apprendre les premiers secours aux personnes en situation de handicap |
-| **RuView** | POC de détection de présence par WiFi (CSI) avec un ESP32-S3 |
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-0b1f3a?style=flat-square&logo=python&logoColor=c9a227)
+![R](https://img.shields.io/badge/R-0b1f3a?style=flat-square&logo=r&logoColor=c9a227)
+![SAS](https://img.shields.io/badge/SAS-0b1f3a?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-0b1f3a?style=flat-square&logo=postgresql&logoColor=c9a227)
+![Power BI](https://img.shields.io/badge/Power%20BI%20%2F%20DAX-0b1f3a?style=flat-square)
+![Spark](https://img.shields.io/badge/Spark-0b1f3a?style=flat-square&logo=apachespark&logoColor=c9a227)
+![Kafka](https://img.shields.io/badge/Kafka-0b1f3a?style=flat-square&logo=apachekafka&logoColor=c9a227)
+![Airflow](https://img.shields.io/badge/Airflow-0b1f3a?style=flat-square&logo=apacheairflow&logoColor=c9a227)
+![Docker](https://img.shields.io/badge/Docker-0b1f3a?style=flat-square&logo=docker&logoColor=c9a227)
+![Quarto](https://img.shields.io/badge/Quarto-0b1f3a?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-0b1f3a?style=flat-square&logo=ollama&logoColor=c9a227)
+![n8n](https://img.shields.io/badge/n8n-0b1f3a?style=flat-square&logo=n8n&logoColor=c9a227)
 
-### 🛠️ Ma boîte à outils, rangée par problème
-
-| Quand il faut… | J'utilise |
-|---|---|
-| Traiter et fiabiliser de la donnée | `Python` `R` `SAS` `SQL` `Spark` |
-| Faire circuler la donnée | `Kafka` `Flink` `Airflow` `n8n` `Microsoft Fabric` |
-| La rendre lisible | `Power BI / DAX` `Quarto + OJS` `Shiny` `Streamlit` `Plotly` |
-| La stocker | `PostgreSQL` `MongoDB` `MinIO` |
-| Construire un produit web | `React` `Vite` `TypeScript` `Node.js` `Three.js` |
-| Déployer | `Docker` `Vercel` `GitHub Pages` |
-| Faire de l'IA | `scikit-learn` `TensorFlow` `Hugging Face` `Ollama` `API Albert` |
+</div>
 
 ---
 
 ### 📌 En ce moment
 
-- 🎓 M1 à l'EFREI Bordeaux : Microsoft Fabric (DP-700), sécurité des données
+- 🎓 Microsoft Fabric (DP-700) et sécurité des données à l'EFREI
 - 📄 Un analyseur de PDF local : OCR, recherche hybride, réponses citées à la page près
-- 📱 Kabana Pizz : validation des commandes directement depuis Telegram
-- 🎥 [@360bordeaux](https://www.tiktok.com/@360bordeaux) : balades à vélo filmées à l'Insta360 X5
+- 🎥 [@360bordeaux](https://www.tiktok.com/@360bordeaux) : Bordeaux à vélo, filmé en 360°
 
 ---
 
 <div align="center">
-
-Un projet qui demande à la fois de la rigueur et de l'imagination ? **[Écris-moi](mailto:hatimadnanepro@gmail.com)**.
 
 <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,100:0b1f3a&height=90&section=footer" width="100%"/>
 
