@@ -1,225 +1,111 @@
 <div align="center">
 
-<img alt="Hatim Adnane" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,100:8338ec&height=180&section=header&text=HATIM%20ADNANE&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Data%20Engineer%20%7C%20Creative%20Technologist%20%7C%20Builder%20&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img alt="Hatim Adnane" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,100:c9a227&height=170&section=header&text=Hatim%20Adnane&fontSize=46&fontColor=f5f1e8&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20Sant%C3%A9%20publique%20%C2%B7%20Web%20%26%20IA%20locale&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-hatimadnane.fr-0b1f3a?style=for-the-badge)](https://hatimadnane.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hatim--adnane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hatim-adnane/)
+[![Email](https://img.shields.io/badge/Email-hatimadnanepro%40gmail.com-c9a227?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatimadnanepro@gmail.com)
 
-<br/>
-
-<div align="center">
-
-![](https://img.shields.io/badge/📍%20Bordeaux-France-8338ec?style=flat&labelColor=2a2a2a)
-![](https://img.shields.io/badge/🎯%20Status-Building-ff006e?style=flat&labelColor=2a2a2a)
-![](https://img.shields.io/badge/💭%20Focus-Data%20%2B%20Web-00d9ff?style=flat&labelColor=2a2a2a)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-hatimadnane.fr-8338ec?style=for-the-badge&labelColor=1a1a1a)](https://hatimadnane.fr)
-[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-hatim--adnane-0077B5?style=for-the-badge&labelColor=1a1a1a)](https://linkedin.com/in/hatim-adnane/)
-[![Email](https://img.shields.io/badge/📧%20Email-Me%20contacter-ff006e?style=for-the-badge&labelColor=1a1a1a)](mailto:hatimadnanepro@gmail.com)
+![](https://img.shields.io/badge/Bordeaux-France-0b1f3a?style=flat-square)
+![](https://img.shields.io/badge/M1-Data%20Engineering%20%26%20IA%20·%20EFREI-0b1f3a?style=flat-square)
+![](https://img.shields.io/badge/Microsoft-PL--300%20certifié-c9a227?style=flat-square&logo=powerbi&logoColor=white)
 
 </div>
 
 ---
 
-## 🎨 Qui suis-je vraiment ?
+### En deux phrases
 
-Je suis obsédé par **l'intersection entre données et créativité**. Pas de données brutes sans sens, pas de belles interfaces sans fondations solides.
-
-Je construis des systèmes qui sont à la fois **robustes sur le papier** et **délicieux à utiliser** — des pipelines qui scalent, des dashboards que les gens regardent volontairement, des sites que personne n'oublie.
-
-> *Je transforme mes erreurs en leçons, souvent après avoir bien rigolé de moi-même.* 🎯
+Le jour, je construis les pipelines qui alimentent le pilotage financier des **~150 établissements de santé de Nouvelle-Aquitaine**. Le soir, je livre des **sites en production pour de vrais clients**, de Brie-Comte-Robert à Madagascar, et j'expérimente l'**IA qui tourne en local**.
 
 ---
 
-<div align="center">
+### 🏥 En alternance — ARS Nouvelle-Aquitaine
 
-### ✨ Ce que je fais
+Apprenti Data Engineer au Pôle Études et Statistiques. Ce que ça veut dire concrètement :
 
-</div>
+- **Pipeline TDB Financement** : `SAS → R → SharePoint → Power BI`, de la donnée brute des Comptes Financiers, EPRD et RIA jusqu'au tableau de bord utilisé par les équipes de financement
+- **Indicateurs hospitaliers 2019–2025** : endettement, résultat, marge brute, CAF, matrices d'évolution par établissement (FINESS) en Python/Plotly
+- **Mesures DAX avancées** (dont rendu HTML) pour masse salariale, ETP et comptes financiers
+- **Rapports et apps Quarto / Shiny** : dépistage du cancer du sein, soins palliatifs, observatoire de santé
+- **IA souveraine** : OCR + RAG sur des contrats avec l'API Albert, outil de tri de CV en Python
 
-- 🏗️ **Architectures data** qui respirent (Kafka → Spark → temps réel)
-- 🎪 **Projets web bizarres** qui résolvent de vrais problèmes avec style
-- 📊 **Dashboards BI** que les stakeholders veulent regarder
-- 💻 **Side projects** que je ne peux pas m'empêcher de lancer
-
-En ce moment : backends **Node.js sur Vercel**, dashboards **Quarto avec OJS**, chaînes **OCR + RAG**, et un système de pizza trop compliqué pour ce qu'il est.
-
----
-
-## 🚀 Les projets qui m'ont façonné
-
-<div align="center">
-
-### 🍕 **Kabana Pizz** — L'obsession du détail
-
-</div>
-
-Site de restaurant qui a l'air banal. En dessous ? **PostgreSQL**, **Emails transactionnels Resend**, **Next.js**, déployé sur Vercel avec DNS sur Cloudflare.
-
-8 tickets d'audit fermés. Headers CSP, balises SEO, rendu d'email sur Outlook. **Chaque pixel compte.**
-
-<div align="center">
-
-[🔗 Voir le site](https://kabanapizz.fr) • [🔧 Repo](https://github.com/hatim381/KabanaPizz)
-
-</div>
+`SAS` `R` `Python` `SQL` `Power BI / DAX` `Quarto` `Shiny` `PMSI` `FINESS` `SNDS`
 
 ---
 
-<div align="center">
+### 🚀 En production
 
-### 📊 **RetailVision** — IA pratique
-
-</div>
-
-Dashboard BI générative avec **navigation vocale**, **KPIs narrisés par LLM**, et un chatbot analytique local (Ollama + gemma3).
-
-Construit pour prouver que l'IA n'a pas besoin du cloud pour être utile. Frontend Streamlit, reasoning LLM custom, tout en local.
-
-**Une thèse sur ce que l'IA devrait être.**
+| Projet | Pour qui | Ce qu'il y a sous le capot |
+|---|---|---|
+| **[Kabana Pizz](https://kabanapizz.fr)** · [repo](https://github.com/hatim381/KabanaPizz) | Pizzeria à Brie-Comte-Robert, commandes réelles chaque jour | Front vanilla JS + Node.js serverless (Vercel), PostgreSQL Neon, emails Resend, rate limiter en base, détection d'allergènes, **PWA installable** (136/136 tests), migration DNS sans coupure ni perte de mail |
+| **[Sambi Basket](https://sambi-basket.vercel.app)** · [repo](https://github.com/hatim381/Sambi-Basket) | Commerce à Ambanja, Madagascar | E-commerce bilingue **malgache / français**, catalogue piloté par Google Sheets : le client met à jour sa boutique sans toucher au code |
+| **Quincaillerie Vao2 Sanfily** · [repo](https://github.com/hatim381/quincaillerie-vao2-sanfily-tulear) | Quincaillerie à Tuléar, Madagascar | React, catalogue réel depuis Google Sheets, panier et commande via WhatsApp / Messenger, pensé pour un marché sans paiement en ligne |
+| **[La Colombe Madagascar](https://lacolombemadagascar.com)** | Marque produit | React + Vite + TypeScript, GA4, endpoint serverless pour les avis Google, SEO |
+| **[SAFINA](https://safina-five.vercel.app)** | Mon studio | Expérience 3D scrollée : une pirogue traverse vers le Pain de Sucre. React Three Fiber, GSAP, Lenis, océan Gerstner |
 
 ---
 
-<div align="center">
+### 🧪 Data engineering & IA
 
-### 🌍 **La Colombe Madagascar** — Quand un site devient un lab
-
-</div>
-
-Site produit minimaliste avec **GA4**, **endpoint serverless Google Reviews**, **fixes SEO**, une design qui respire.
-
-React + Vite + TypeScript. Un petit business qui devient un terrain d'expérimentation.
-
-<div align="center">
-
-[🔗 Voir le site](https://lacolombemadagascar.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 🛒 **KiVendTout** — Medallion architecture complet
-
-</div>
-
-Plateforme e-commerce complète tournant sur ~20 services Docker.
-
-Kafka streams → Spark transformations → Flink temps réel → Airflow orchestration → MinIO stockage → n8n automations → Telegram.
-
-**C'est pas de la théorie.** C'est un système data vivant avec multiples sources d'ingestion, couches de transformation, et prise de décision automatisée.
-
-Le projet qui t'enseigne ce que l'**engineering data** signifie vraiment.
+**KiVendTout** — plateforme e-commerce en architecture médaillon, ~20 services Docker.
 
 ```
-┌─────────────┐      ┌──────────┐      ┌─────────┐      ┌──────────┐
-│   Kafka     │ ───> │  Spark   │ ───> │  Flink  │ ───> │ Database │
-│  (Streams)  │      │ (Batch)  │      │(Realtime)      │          │
-└─────────────┘      └──────────┘      └─────────┘      └──────────┘
-                                            │
-                                            v
-                                      ┌──────────┐
-                                      │ Airflow  │
-                                      │(Orchester)
-                                      └──────────┘
+ Sources ─► Kafka ─► Bronze ─► Silver ─► Gold ─► Dashboards · Telegram
+            stream    MinIO     Spark     Spark
+              │
+              └──► Flink (temps réel)
+
+ Orchestration : Airflow        Automatisations : n8n
 ```
 
----
+**RetailVision** — dashboard BI génératif : navigation vocale, KPIs commentés par LLM, chatbot analytique **100 % local** (Ollama + gemma3). Évalué sur WER, latence et exactitude des commandes.
 
-<div align="center">
+**Veille automatisée (n8n)** — Google News, TLDR Data et scores de foot → extraction → résumé par LLM local ou Gemini → Notion, Telegram, WhatsApp Cloud API.
 
-### 🎲 **Projets qui n'auraient pas dû exister, mais qui existent**
-
-</div>
-
-| Projet | L'histoire |
-|--------|-----------|
-| **il_est_16h** | Une inside-joke du travail codifiée en émulateur de terminal avec compteurs à rebours et humour absurde français |
-| **Carte** | Invitation digitale interactive avec éléments 3D et logique d'événement complexe |
-| **Polysecours** | Jeu didactique enseignant les premiers secours aux personnes en situation de handicap |
-| **Vanille de Madagascar** | Site statique devenu lab d'expérimentation : SEO, performance, storytelling |
+**Projets académiques** — NLP sur les radios F1 d'Aston Martin (TF-IDF, LDA, sentiment RoBERTa, corrélation FastF1) · classification des retards de vols US (XGBoost + Streamlit) · **Datathon** : détection d'allergènes alimentaires, recall > 99 % (Hugging Face).
 
 ---
 
-## 🛠️ Comment je pense la tech
-
-Je n'organise pas par framework ou buzzword. J'organise par **problème**.
-
-<div align="center">
-
-| Quand j'ai besoin... | Je chosis... |
-|---|---|
-| 📈 **Data à grande échelle** | `Python` · `Spark` · `SAS` · `R` · `SQL` |
-| 🌊 **Pipelines streaming** | `Kafka` · `Flink` · `Airflow` · `n8n` |
-| 📊 **Dashboards interactifs** | `Power BI + DAX` · `Quarto + OJS` · `Shiny` |
-| ⚡ **Analytics temps réel** | `PostgreSQL` · `MongoDB` · `Spark Streaming` |
-| 🌐 **Produits web** | `React` · `Next.js` · `Node.js` · `Vite` · `TypeScript` |
-| 🚀 **Déploiement** | `Docker` · `Vercel` · `GitHub Pages` |
-| 🤖 **ML & IA** | `scikit-learn` · `TensorFlow` · `Hugging Face` · `Ollama` |
-
-</div>
-
-**Le stack importe moins que comprendre les tradeoffs** :
-- Pourquoi PostgreSQL ici et MongoDB là ?
-- Pourquoi Quarto au lieu de Tableau ?
-- Pourquoi le construire plutôt qu'utiliser un SaaS ?
-
----
-
-## 🧠 Ce que j'apprends maintenant
-
-- 🔬 **LLMs fine-tunés** pour tâches spécifiques au domaine (contrats, documents, analytics)
-- 📜 **Chaînes OCR + RAG** qui fonctionnent sur des documents messys réels
-- 🏗️ **Architectures multi-tenant** qui ne s'écroulent pas sous la complexité
-- 🎨 **Data visualization** qui raconte une histoire au lieu de juste montrer des chiffres
-
----
-
-<div align="center">
-
-## 🎯 Construisons quelque chose d'incroyable
-
-</div>
-
-Je m'intéresse à :
-
-✨ **Problèmes data** qui nécessitent des solutions élégantes  
-✨ **Idées créatives** qui ont besoin de fondations techniques  
-✨ **Projets open source** aux carrefours du utile et du beau  
-✨ Trucs qui font dire aux gens : *"T'as fais ça comment ?!"*
-
-Contacte-moi si tu penses à un projet qui demande de la **rigueur ET de l'imagination**.
-
----
-
-<div align="center">
-
-<br/>
-
-### 📚 Parcours rapide
-
-</div>
+### 🎲 Les projets pour le plaisir
 
 | | |
 |---|---|
-| 🎓 | **M1 Data Engineering & IA** — EFREI Bordeaux (continuant vers M2) |
-| 💼 | **Alternance** — travaillant sur des pipelines qui alimentent des vraies décisions |
-| 🏆 | **Datathon** — détecteur d'allergènes alimentaires (Recall > 99%) avec Hugging Face |
-| 🎥 | **360° Creator** — tournage et montage autour de Bordeaux (Insta360 X5) |
-| ⚽ | **Pétanque** — peut-être trop de temps là-dessus... ou pas assez ? |
+| **Pétanque Royale** | Simulateur 3D de pétanque en un seul fichier HTML (Three.js), contre l'IA ou à deux |
+| **il_est_16h** | Une blague du bureau devenue émulateur de terminal avec compte à rebours |
+| **Carte** | Invitation numérique interactive, réponses enregistrées dans Google Sheets via Apps Script |
+| **Polysecours** | Jeu pour apprendre les premiers secours aux personnes en situation de handicap |
+| **RuView** | POC de détection de présence par WiFi (CSI) avec un ESP32-S3 |
+
+---
+
+### 🛠️ Ma boîte à outils, rangée par problème
+
+| Quand il faut… | J'utilise |
+|---|---|
+| Traiter et fiabiliser de la donnée | `Python` `R` `SAS` `SQL` `Spark` |
+| Faire circuler la donnée | `Kafka` `Flink` `Airflow` `n8n` `Microsoft Fabric` |
+| La rendre lisible | `Power BI / DAX` `Quarto + OJS` `Shiny` `Streamlit` `Plotly` |
+| La stocker | `PostgreSQL` `MongoDB` `MinIO` |
+| Construire un produit web | `React` `Vite` `TypeScript` `Node.js` `Three.js` |
+| Déployer | `Docker` `Vercel` `GitHub Pages` |
+| Faire de l'IA | `scikit-learn` `TensorFlow` `Hugging Face` `Ollama` `API Albert` |
+
+---
+
+### 📌 En ce moment
+
+- 🎓 M1 à l'EFREI Bordeaux : Microsoft Fabric (DP-700), sécurité des données
+- 📄 Un analyseur de PDF local : OCR, recherche hybride, réponses citées à la page près
+- 📱 Kabana Pizz : validation des commandes directement depuis Telegram
+- 🎥 [@360bordeaux](https://www.tiktok.com/@360bordeaux) : balades à vélo filmées à l'Insta360 X5
 
 ---
 
 <div align="center">
 
-<img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:ff006e&height=100&section=footer&fontSize=0" width="100%"/>
+Un projet qui demande à la fois de la rigueur et de l'imagination ? **[Écris-moi](mailto:hatimadnanepro@gmail.com)**.
 
-<br/>
-
-**Made with 💜 in Bordeaux**
-
-*Chaque erreur est une leçon déguisée.*
+<img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,100:0b1f3a&height=90&section=footer" width="100%"/>
 
 </div>
